@@ -6,7 +6,7 @@ The **D-SDM Repository** provides the implementation of the methodology presente
 ## Installation Guide
 
 ### Prerequisites
-We recommend using **[Anaconda](https://www.anaconda.com/)** as it bundles most of the required dependencies. If you haven't installed Anaconda yet, please download and install it from the official website before proceeding.
+We recommend using **[Anaconda](https://store.continuum.io/cshop/anaconda/)** as it bundles most of the required dependencies. If you haven't installed Anaconda yet, please download and install it from the official website before proceeding.
 
 ### Steps to Install D-SDM
 
@@ -55,4 +55,9 @@ When done, deactivate the environment with:
 ```bash
 conda deactivate
 ```
+
+## Example Notebook
+In the folder **notebooks**, there is an example notebook demonstrating the usage of D-SDM for parameter estimation.
+
+
 
